@@ -44,5 +44,4 @@ export {
   copyBulkFiles,
   setSavePath,
   getSavePath,
-  taskExecutor,
 };
